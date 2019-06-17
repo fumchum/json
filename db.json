@@ -28,41 +28,5 @@
     "id": 5,
     "title": "lbacon ipsum",
     "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "oadfoaofaof",
-    "completed": true
-  },
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "LOREM IPPPSUMMM",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "losdfsf.d",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "lorsdfdsfsfsdfsd",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "HALLO",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "lorem ipsom d.d",
-    "completed": true
   }
 ]
